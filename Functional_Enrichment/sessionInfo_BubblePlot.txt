@@ -1,0 +1,35 @@
+
+> sessionInfo()
+R version 4.4.0 (2024-04-24)
+Platform: aarch64-apple-darwin20
+Running under: macOS Sonoma 14.4.1
+
+Matrix products: default
+BLAS:   /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib 
+LAPACK: /Library/Frameworks/R.framework/Versions/4.4-arm64/Resources/lib/libRlapack.dylib;  LAPACK version 3.12.0
+
+locale:
+[1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
+
+time zone: America/Los_Angeles
+tzcode source: internal
+
+attached base packages:
+[1] grid      stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] stringr_1.5.1      magrittr_2.0.3     dplyr_1.1.4        psych_2.4.3        shades_1.4.0      
+ [6] gtools_3.9.5       readxl_1.4.3       patchwork_1.2.0    ComplexUpset_1.3.3 UpSetR_1.4.0      
+[11] ggplot2_3.5.1     
+
+loaded via a namespace (and not attached):
+ [1] gtable_0.3.5       compiler_4.4.0     tidyselect_1.2.1   Rcpp_1.0.12        parallel_4.4.0    
+ [6] gridExtra_2.3      systemfonts_1.0.6  scales_1.3.0       textshaping_0.3.7  lattice_0.22-6    
+[11] R6_2.5.1           plyr_1.8.9         labeling_0.4.3     generics_0.1.3     tibble_3.2.1      
+[16] munsell_0.5.1      RColorBrewer_1.1-3 pillar_1.9.0       rlang_1.1.3        utf8_1.2.4        
+[21] stringi_1.8.3      cli_3.6.2          withr_3.0.0        rstudioapi_0.16.0  nlme_3.1-164      
+[26] lifecycle_1.0.4    vctrs_0.6.5        mnormt_2.1.1       glue_1.7.0         farver_2.1.1      
+[31] cellranger_1.1.0   ragg_1.3.0         fansi_1.0.6        colorspace_2.1-0   tools_4.4.0       
+[36] pkgconfig_2.0.3   
+
+> sink()

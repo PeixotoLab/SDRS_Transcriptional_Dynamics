@@ -1,0 +1,12 @@
+[
+  {
+    "index": "gencode.vM28-salmon-index-v1.0.0-mouse-withdecoys",
+    "source": "GENCODE",
+    "organism": "Mus musculus",
+    "release": "M28",
+    "genome": "GRCm39",
+    "fasta": ["/Users/alexpopescu/Code/Peixoto_Lab_2023/Salmon/Index/gencode.vM28.transcripts.fa.gz"],
+    "gtf": "/Users/alexpopescu/Code/Peixoto_Lab_2023/Salmon/Index/gencode.vM28.annotation.gtf.gz",
+    "sha256": "b45e353dfeb870c6d1b8d3e906c625521a210407bbd63f72bee456393d71bd97"
+  }
+]
